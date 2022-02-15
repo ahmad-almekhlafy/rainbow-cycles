@@ -16,7 +16,7 @@ ptconfig = PointConfiguration(vertices, fine=True))
 			   for t in t_list: f.write("T:B" + str(list(t.boundary())) + ", D=" + str(list(t.interior_facets()))+"\n")
 ```
 
-To get the n verticies of an regular polygon, use the following command on **SageMath**:
+To get the n verticies of a regular polygon, use the following command on **SageMath**:
 
 ```
 p = polytopes.regular_polygon(10, exact=True)
