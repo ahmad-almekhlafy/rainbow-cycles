@@ -1,6 +1,6 @@
 Small java programs created in the scope of my bachelor thesis (**Rainbow cycles in flip graphs**).
 
-The TriangulationLab should be started using command: **java main [inputFile] r [outputFile]**
+The TriangulationLab should be started using the command: **java main [inputFile] [r] [outputFile]**
 
 The **input file** is a text file encoding the point set and all its triangulations. The file **7gon.txt** provides an example for the encoding.
 
