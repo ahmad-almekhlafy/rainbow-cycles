@@ -1,6 +1,6 @@
 Small java programs created in the scope of my bachelor thesis (**Rainbow cycles in flip graphs**).
 
-The TriangulationLab should be started using the command: 
+**TriangulationLab** should be started using the command: 
 ```
 java main [inputFile] [r] [outputFile]
 ```
@@ -25,4 +25,4 @@ polytopes.regular_polygon(n, exact=True).vertices()
 The generated **output file** contains **r-rainbow cycles** encoded as **Geogebra** code. Just execute the content of the output file in Geogebra to see the found r-rainbow cycles.
 
 
-Another thing to keep in mind is that PermutationLab is restricted to permutations containing single digts for the sake of readability. However, this can easily be modified if needed.
+Another thing to keep in mind is that **PermutationLab** is restricted to permutations containing single digts for the sake of readability. However, this can easily be modified if needed.
