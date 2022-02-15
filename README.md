@@ -19,7 +19,7 @@ ptconfig = PointConfiguration(vertices, fine=True))
 To get the n verticies of a regular polygon, use the following command on **SageMath**:
 
 ```
-p = polytopes.regular_polygon(10, exact=True)
+polytopes.regular_polygon(10, exact=True).vertices()
 ```
 
 The generated **output file** contains **r-rainbow cycles** encoded as **Geogebra** code. Just execute the content of the output file in Geogebra to see the found r-rainbow cycles.
