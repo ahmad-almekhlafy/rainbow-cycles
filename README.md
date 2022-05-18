@@ -1,4 +1,8 @@
-Small java programs created in the scope of my bachelor thesis (**Rainbow cycles in flip graphs**).
+Java programs created in the scope of my bachelor thesis ([**Rainbow cycles in flip graphs**](https://drive.google.com/file/d/1uuaT_gHMoBBuHzO_aeyyKOs-nSW80c-d/view)).
+
+Please **note** that other than using multi-threading, the code was not optimized in any way.
+
+----
 
 **TriangulationLab** should be started using the command: 
 ```
